@@ -1,0 +1,14 @@
+title: RVA Cars
+org: Re-Volt America
+email: jose@bgm.cl
+url: "https://cars.rva.lat"
+description: >-
+  Cars repository for Re-Volt America.
+encoding: UTF-8
+markdown: kramdown
+
+exclude:
+  - CNAME
+  - favicon.ico
+  - LICENCE.md
+  - README.md
